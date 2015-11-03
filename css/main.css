@@ -15,9 +15,8 @@ h {
     background-color: #30a590;
     color: #d8e18f;
     position: fixed;
-    top: 0;
     z-index: 2;
-    top: auto;
+    top: 0;
 }
 .content {
     font-family: "Helvetica Neue", "Arial", sans-serif;
