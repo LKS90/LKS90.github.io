@@ -25,10 +25,28 @@ h1 {
 }
 
 .header {
+    background-color: #ccc;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    bottom: auto;
+}
+.outer {
+    background-color: #fff;
+    position: relative;
+    height: 100px;
+}
+.outer .header {
     position: fixed;
     top: 0;
     z-index: 2;
     top: auto;
+}
+.content {
+    height: 1500px;
+    color: blue;
+    background-color: #fff;
+    margin-top: 100px;
 }
 p {
     font-size: 1.5em;
