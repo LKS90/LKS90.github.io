@@ -2,14 +2,6 @@ html, body {
     margin: 0;
     padding: 0;
 }
-.header {
-    font-family: "Helvetica Neue", "Arial", sans-serif;
-    background-color: #ccc;
-    width: 100%;
-    position: fixed;
-    top: 0;
-    bottom: auto;
-}
 .outer {
     font-family: "Helvetica Neue", "Arial", sans-serif;
     background-color: #fff;
