@@ -3,8 +3,9 @@ html, body {
     padding: 0;
 }
 h1 {
-    text-shadow: 2px 2px #30a590;
+    text-shadow: 2px 2px #000000;
     background-color: #95d2cd;
+    color: #30a590;
 }
 .outer {
     position: relative;
