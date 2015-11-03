@@ -23,6 +23,13 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+
+.header {
+    position: fixed;
+    top: 0;
+    z-index: 2;
+    top: auto;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
