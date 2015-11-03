@@ -12,6 +12,7 @@ h {
 .outer .header {
     font-family: "Helvetica Neue", "Arial", sans-serif;
     background-color: #30a590;
+    width: 100%;
     height: 2rem;
     color: #d8e18f;
     position: fixed;
