@@ -9,6 +9,7 @@ h {
 .outer {
     font-family: "Helvetica Neue", "Arial", sans-serif;
     position: relative;
+    width: auto;
     height: 2rem;
 }
 .outer .header {
@@ -16,7 +17,6 @@ h {
     color: #d8e18f;
     position: fixed;
     z-index: 2;
-    width: auto;
     top: 0;
 }
 .content {
