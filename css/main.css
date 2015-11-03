@@ -1,3 +1,7 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
 .header {
     font-family: "Helvetica Neue", "Arial", sans-serif;
     background-color: #ccc;
@@ -21,7 +25,6 @@
 .content {
     font-family: "Helvetica Neue", "Arial", sans-serif;
     height: 1500px;
-    color: blue;
     background-color: #fff;
     margin-top: 100px;
 }
