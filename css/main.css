@@ -8,6 +8,12 @@ h {
 }
 .outer {
     background-color: #30a590;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    position: relative;
+    width: auto;
+    height: 2rem;
+}
+.outer .header {
     color: #d8e18f;
     position: fixed;
     z-index: 2;
