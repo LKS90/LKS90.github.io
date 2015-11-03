@@ -16,6 +16,7 @@ h {
     color: #d8e18f;
     position: fixed;
     z-index: 2;
+    width: auto;
     top: 0;
 }
 .content {
