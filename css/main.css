@@ -3,7 +3,7 @@ html, body {
     padding: 0;
 }
 h1 {
-    text-shadow: 2px 2px 0.5px #ffffff;
+    text-shadow: 2px 2px 2px #ffffff;
     background-color: #95d2cd;
     color: #30a590;
 }
