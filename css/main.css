@@ -2,6 +2,10 @@ html, body {
     margin: 0;
     padding: 0;
 }
+a {
+    color: #99b433;
+    text-decoration: none;
+}
 h1 {
     text-shadow: 1px 1px 4px #ffffff;
     background-color: #9ACD32;
@@ -12,10 +16,10 @@ h1 {
 }
 .outer .header {
     font-family: "Helvetica Neue", "Arial", sans-serif;
-    background-color: #99b433;
+    background-color: #ffffff;
     width: 100%;
     height: 4rem;
-    color: #d8e18f;
+    color: #99b433;
     position: fixed;
     z-index: 2;
     top: 0;
