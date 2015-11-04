@@ -22,7 +22,7 @@ h1 {
 }
 .content {
     font-family: "Helvetica Neue", "Arial", sans-serif;
-    height: auto;
+    height: 100%;
     background-color: #f1f1f1;
     margin-top: 4rem;
 }
