@@ -11,6 +11,25 @@ h1 {
     background-color: #9ACD32;
     color: #ffffff;
 }
+
+
+  .ui-widget-header {  
+    background: #99b433;
+    color: #fff;
+  }
+   .column {
+    width: auto;
+    float: left;
+    padding-bottom: 100px;
+  }
+  .portlet {
+    margin: 0 1em 1em 0;
+    padding: 0.1em;
+  }
+  .portlet-header {
+    padding: 0.2em 0.3em;
+    position: relative;
+  }
 .outer {
     position: relative;
 }
