@@ -19,7 +19,7 @@ h1 {
   }
    .column {
     width: auto;
-    float: left;
+    float: center;
   }
   .portlet {
     margin: 0 1em 1em 0;
